@@ -1,4 +1,4 @@
-function sayKirbyRoss() {
-  console.log ("Kirby Maurier Ross!")
+function sayValhollaIsTheFuture() {
+  console.log ("Valholla is the Future - Vince Valholla")
 }
-sayKirbyRoss()
+sayValhollaIsTheFuture()
