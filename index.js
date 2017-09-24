@@ -1,4 +1,4 @@
-function sayHello() {
-  console.log ("Hello!")
+function sayHellotoIsabelle() {
+  console.log ("Hello, Isabelle!")
 }
 sayHello()
