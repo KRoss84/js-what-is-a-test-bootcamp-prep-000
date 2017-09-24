@@ -1,4 +1,7 @@
-function sayValhollaIsTheFuture() {
-  console.log ("Valholla is the Future - Vince Valholla")
+function sayHelloTo(firstName) {
+  console.log (`Hello, ${firstName}!`)
 }
-sayValhollaIsTheFuture()
+sayHelloTo("Isabelle")
+sayHelloTo("Jane")
+sayHelloTo("R2-D2")
+sayHelloTo(1)
